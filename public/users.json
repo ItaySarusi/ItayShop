@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id" : 0,
+      "type" : "user",
+      "displayName": "Itay Sarusi",
+      "email": "itaysarusi67@gmail.com",
+      "password": "itay123404"
+    },
+    {
+      "id" : 1,
+      "type" : "user",
+      "displayName": "IS",
+      "email": "itaysarusi678@gmail.com",
+      "password": "itay12340444"
+    },
+    {
+      "id" : 2,
+      "type" : "user",
+      "displayName": "IS2",
+      "email": "itaysarusi679@gmail.com",
+      "password": "itay123404444"
+    },
+    {
+      "id" : 3,
+      "type" : "admin",
+      "displayName": "Main Admin",
+      "email": "admin@main.com",
+      "password": "admin123"
+    },
+    {
+      "id" : 4,
+      "type" : "admin",
+      "displayName": "Main Admin2",
+      "email": "admin2@main.com",
+      "password": "admin12345"
+    }
+  ]
+}
