@@ -38,7 +38,7 @@ const About = () => {
                                 5) Press "Clear site data" to finally reset the site's user list to only contain what the users.JSON file holds.<br/>
                                 (You can also add users to the JSON file in the code and save the changes)<br/><br/>
 
-                                *** FOR EXTENDED INFORMATION, GO OVER TO THE "README.txt" FILE. ***
+                                *** FOR EXTENDED INFORMATION, GO OVER TO THE "README.md" FILE. ***
                             </Typography>
                         </ListItem>
                     </List>
