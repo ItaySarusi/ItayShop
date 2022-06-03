@@ -1,4 +1,5 @@
 (in order to run the app --> type "npm install" in the terminal, once finished, type "npm start". Enjoy.)
+
 Project Information -->
 
 The project supports CRUD Functions - Creating,Reading,Updating and Deleting orders. (you can also create new users).
